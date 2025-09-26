@@ -1,7 +1,7 @@
 [project]
-name = "ollama-get-models"
+name = "ollama-model-scrapper"
 version = "0.1.0"
-description = "Add your description here"
+description = "Quick and Dirty Ollama model list scrapper"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
